@@ -10,7 +10,5 @@ Pasos de ejecución:
                         3. Ingresar en la Terminal: ./conversor (este paso ejecuta el programa)
                         
 Autor:                  Santiago Vásquez
-
                         Carné 24000183
-                        
                         Email santiago.vasquez@galileo.edu
